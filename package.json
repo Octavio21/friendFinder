@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Match Maker Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Octavio21/friendFinder.git"
+  },
+  "keywords": [
+    "friendfinder",
+    "backend",
+    "application"
+  ],
+  "author": "octavio mata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Octavio21/friendFinder/issues"
+  },
+  "homepage": "https://github.com/Octavio21/friendFinder#readme"
+}
